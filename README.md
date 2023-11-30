@@ -14,4 +14,4 @@ streamlit run dashboard.py
 ```
 
 ## Link streamlit app
-https://muhdavi-analisis-data-dashboarddashboard-sjxvj1.streamlit.app
+https://muhdavi-dicoding.streamlit.app
